@@ -7,7 +7,7 @@
 ![A passionate backend developer from France](https://files.skitdev.icu/imgs/banner.png)
 
 - 🏢 I'm currently working on **[Melen](https://gitea.skitdev.icu/SkitDev/Melen)**
-- ⚙️ I use daily: `.php`, `.js`, `.java`, `.kt`, `.json`, `.md`
+- ⚙️ I use daily: `.php`, `.js`, `.java`, `.kt`, `.json`, `.md`, `.dart`
 - 🌱 Learning more about and studying: **Javascript, PHP, Flutter, Dart, Java, Kotlin**
 - 💬 Ping me about: **discord bot**, **backend development**
 - 📫 Reach me asap: [melaine35gerard@gmail.com](mailto:melaine35gerard@gmail.com)
