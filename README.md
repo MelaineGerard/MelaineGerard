@@ -10,7 +10,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.java`, `.kt`, `.json`, `.md`, `.dart`
 - 🌱 Learning more about and studying: **Javascript, PHP, Flutter, Dart, Java, Kotlin**
 - 💬 Ping me about: **discord bot**, **backend development**
-- 📫 Reach me asap: [melaine35gerard@gmail.com](mailto:melaine35gerard@gmail.com)
+- 📫 Reach me asap: [pro@melaine-gerard.fr](mailto:pro@melaine-gerard.fr)
 - 💜 Interests: network, Linux, food, series
 - 😄 Passionate about network
 
