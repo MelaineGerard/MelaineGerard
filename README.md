@@ -21,4 +21,4 @@
 ---
 ### Some stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SkitDev&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SkitDev&show_icons=true&theme=dark)
