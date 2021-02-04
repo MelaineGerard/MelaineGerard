@@ -4,9 +4,7 @@
 #### A passionate backend developer from France
 
 
-![A passionate backend developer from France](https://files.skitdev.icu/imgs/banner.png)
-
-- 🏢 I'm currently working on **[Melen](https://gitea.skitdev.icu/SkitDev/Melen)**
+- 🏢 I'm currently working on **[Melen](https://gitea.skitdev.icu/SkitDev/MelenBotV2)**
 - ⚙️ I use daily: `.php`, `.js`, `.java`, `.kt`, `.json`, `.md`, `.dart`, `.py`, `.c`, `.cpp`
 - 🌱 Learning more about and studying: **Javascript, PHP, Flutter, Dart, Java, Kotlin, Python, C, C++**
 - 💬 Ping me about: **discord bot**, **backend development**
@@ -21,4 +19,4 @@
 ---
 ### Some stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SkitDev&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MelaineGerard&show_icons=true&theme=dark)
