@@ -4,7 +4,7 @@
 #### A passionate backend developer from France
 
 
-- 🏢 I'm currently working on **[Melen](https://gitea.skitdev.icu/SkitDev/MelenBotV2)**
+- 🏢 I'm currently working on **[Melen](https://github.com/melainegerard/melenbot-v2)**
 - ⚙️ I use daily: `.java`, `.php`, `.py`, `.dart`
 - 🌱 Learning more about and studying: **Java, PHP, Python, Flutter, Dart**
 - 💬 Ping me about: **discord bot**, **backend development**, **python script**
