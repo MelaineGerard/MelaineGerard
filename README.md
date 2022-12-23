@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working on **[Melen](https://github.com/melainegerard/melenbot-v2)**
 - ⚙️ I use daily: `.java`, `.php`, `.py`, `.dart`
-- 🌱 Learning more about and studying: **Java, PHP, Python, Flutter, Dart**
+- 🌱 Learning more about and studying: **Java, PHP, Python, Flutter, Dart, Symfony**
 - 💬 Ping me about: **discord bot**, **backend development**, **python script**
 - 📫 Reach me asap: [pro@melaine-gerard.fr](mailto:pro@melaine-gerard.fr)
 - 💜 Interests: programming, Linux, food, series
