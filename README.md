@@ -1,3 +1,5 @@
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/5202?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+
 <h1 align="center">Hi 👋, I'm Melaine</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
