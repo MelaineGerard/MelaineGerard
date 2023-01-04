@@ -1,4 +1,4 @@
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/5202?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+<a href="https://wakatime.com/@9771e316-29fd-4ccd-8a13-55ef33c47aef"><img src="https://wakatime.com/badge/user/9771e316-29fd-4ccd-8a13-55ef33c47aef.svg" alt="Total time coded since Nov 23 2021" /></a>
 
 <h1 align="center">Hi 👋, I'm Melaine</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
