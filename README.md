@@ -1,4 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/9771e316-29fd-4ccd-8a13-55ef33c47aef.svg?style=for-the-badge)](https://wakatime.com/@9771e316-29fd-4ccd-8a13-55ef33c47aef)
+[![simple-notepad](https://snapcraft.io/simple-notepad/badge.svg)](https://snapcraft.io/simple-notepad)
+[![simple-notepad](https://snapcraft.io/simple-notepad/trending.svg?name=0)](https://snapcraft.io/simple-notepad)
 
 <h1 align="center">Hi 👋, I'm Melaine</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
@@ -7,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melainegerard" alt="melainegerard" /></a> </p>
 
-- 🔭 I’m currently working on **Melen**
+- 🔭 I’m currently working on **Simple Notepad**
 
 - 🌱 I’m currently learning **Java, PHP, Python, Flutter, Dart, Symfony**
 
