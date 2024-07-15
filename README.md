@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melainegerard" alt="melainegerard" /></a> </p>
 
-- 🔭 I’m currently working on **Simple Notepad**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Java, PHP, Python, Flutter, Dart, Symfony**
+- 🌱 I’m currently learning **Java, PHP, Flutter, Dart, Symfony**
 
 - 👨‍💻 All of my projects are available at [https://melaine-gerard.fr](https://melaine-gerard.fr)
 
@@ -20,9 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/melainegerard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="melainegerard" height="30" width="40" /></a>
-<a href="https://twitter.com/skitdevelopper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skitdevelopper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melaine.gerard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melaine.gerard" height="30" width="40" /></a>
-<a href="https://instagram.com/melaine.gerard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melaine.gerard" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melainegerard&show_icons=true&locale=en" alt="melainegerard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melainegerard&" alt="melainegerard" /></p>
-
-### My daily.dev card
-
-<a href="https://app.daily.dev/MelaineGerard"><img src="https://github.com/MelaineGerard/MelaineGerard/blob/main/devcard.svg" width="400" alt="Melaine Gerard's Dev Card"/></a>
