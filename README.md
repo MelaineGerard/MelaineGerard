@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melainegerard&label=Profile%20views&color=0e75b6&style=flat" alt="melainegerard" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img align="center" src="https://trophy.ryglcloud.net/?username=MelaineGerard&theme=light" alt="melainegerard" height="30" width="40" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://trophy.ryglcloud.net/?username=MelaineGerard&theme=light" alt="melainegerard" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
 
